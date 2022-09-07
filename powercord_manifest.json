@@ -1,0 +1,18 @@
+{
+  "name": "Discord Experiments Patcher",
+  "description": "Enables developer options in the Discord client. For use with the Discord Experiments plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "Toasty",
+    "id": "255515821541949440"
+  },
+  "id": "DiscordExperimentsPatcher",
+  "support": "NDzjMB2WhR",
+  "donations": [
+    {
+      "name": "Ko-fi",
+      "link": "https://ko-fi.com/slice"
+    }
+  ],
+  "theme": "./index.js"
+}
